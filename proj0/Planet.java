@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.*;
+
 /**
  * Created by zhangjinrong on 2018/3/14.
  */
@@ -75,5 +77,7 @@ public class Planet {
         xxPos=xxPos+xxVel*time;
         yyPos=yyPos+yyVel*time;
     }
-
+    public void draw(){
+        StdDraw.picture(xxPos,yyPos,"./images/"+imgFileName);
+    }
 }
