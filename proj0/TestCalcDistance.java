@@ -1,3 +1,4 @@
+package proj0;
 
 /**
  *  Tests calcDistance

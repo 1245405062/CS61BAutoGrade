@@ -1,3 +1,5 @@
+package proj0;
+
 /**
  *  Tests the Planet constructor.
  */

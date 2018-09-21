@@ -1,3 +1,5 @@
+package proj0;
+
 /**
  *  Tests Nbody.readPlanets. Reads in ./data/planets.txt and checks output of
  *  readPlanets().
