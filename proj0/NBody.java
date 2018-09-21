@@ -1,6 +1,4 @@
 
-import edu.princeton.cs.algs4.StdDraw;
-import edu.princeton.cs.algs4.StdOut;
 
 public class NBody{
   public static double readRadius(String address){
