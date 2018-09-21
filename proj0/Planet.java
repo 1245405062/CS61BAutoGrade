@@ -1,7 +1,7 @@
 /**
  * Created by zhangjinrong on 2018/3/14.
  */
-package proj0;
+
 
 public class Planet {
 
