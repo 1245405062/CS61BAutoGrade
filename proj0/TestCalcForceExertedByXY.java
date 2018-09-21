@@ -1,4 +1,3 @@
-package proj0;
 
 import java.math.*;
 
